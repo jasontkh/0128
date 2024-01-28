@@ -1,3 +1,4 @@
 print("Hello buddies")
 
-1 + 1kkkkkkk
+
+print("Conflict resolved!")
